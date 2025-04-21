@@ -20,7 +20,11 @@ const Home = () => {
 
 			<div className="container">
 				<Hero/>
-				<Card/>
+				<Card/>				
+			</div>
+
+			<div>
+			<Footer className="container"/>
 			</div>
 		</>
 		

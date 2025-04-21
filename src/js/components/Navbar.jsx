@@ -7,7 +7,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-lg navbar-light bg-dark">
                     <div className="container-fluid">
                         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-                        <a className="navbar-brand  text-light" href="#">Start Bootstrap</a>
+                        <p className="navbar-brand  text-light" href="#">React Site</p>
                                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">   
                                         </ul>
                             <div className="d-flex navbar-nav">
